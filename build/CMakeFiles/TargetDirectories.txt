@@ -1,0 +1,3 @@
+/home/dbox1028/vpi_perspective_warp_aruco/build/CMakeFiles/rebuild_cache.dir
+/home/dbox1028/vpi_perspective_warp_aruco/build/CMakeFiles/edit_cache.dir
+/home/dbox1028/vpi_perspective_warp_aruco/build/CMakeFiles/vpi_perspective_warp_aruco.dir
